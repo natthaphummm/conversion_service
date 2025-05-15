@@ -6,6 +6,8 @@ This project is a NestJS-based service for converting various units of measureme
 
 The Conversion Service provides APIs to convert between different units of length, weight, and temperature. It uses NestJS for building efficient and scalable server-side applications.
 
+> This project is created to practice backend development.
+
 ## Project setup
 
 ```bash
